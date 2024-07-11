@@ -17,8 +17,9 @@ Key takeaways:
 
 
 
-Personal insights or reflections
-With the CPU Visual Simulator you are able to really see the inner workings of a CPU. You can grasp an idea of how the CPU's operations work. It makes me want to look deeper on the processes of a CPU. 
+Feedback: The CPU Visual Simulator helped me gain an understanding of how the instructions are passed in the CPU.
+
+Reflection: With the CPU Visual Simulator you are able to really see the inner workings of a CPU. You can grasp an idea of how the CPU's operations work. It makes me want to look deeper on the processes of a CPU. 
 
 
 ## Visual Transistor-level Simulation
