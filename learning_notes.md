@@ -47,6 +47,8 @@ Key takeaways:
    
 Reflection
 
-Feedback: It was very cool taking a look at the Visual Transister-level Simulator because you get to see a deeper view into the physical construction and operation of computer chips. Reflection: I was able to see how each tiny polygon was contributing to the functionality of the device.
+Feedback: It was very cool taking a look at the Visual Transister-level Simulator because you get to see a deeper view into the physical construction and operation of computer chips.
+
+Reflection: I was able to see how each tiny polygon was contributing to the functionality of the device.
 
 
