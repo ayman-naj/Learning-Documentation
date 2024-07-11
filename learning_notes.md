@@ -15,7 +15,7 @@ Key takeaways:
   * once the instruction is fetched, the code is decoded from that point on and then the program counter is incremeted
   * the content of the program counter is placed on the address bus
 
-
+Reflection
 
 Feedback: The CPU Visual Simulator helped me gain an understanding of how the instructions are passed in the CPU.
 
@@ -43,9 +43,10 @@ Key takeaways:
           -  all the greyish areas represent metal
     
           - the purple parts are all polysilicon (purified form of silicon)
-    * when there is the purple colour in between either green, red, or yellow, it kind of acts as a gate 
+    * when there is the purple colour in between either green, red, or yellow, it kind of acts as a gate
+   
+Reflection
 
-Personal insights or reflections:
-It was very cool taking a look at the Visual Transister-level Simulator because you get to see a deeper view into the physical construction and operation of computer chips. I was able to see how each tiny polygon was contributing to the functionality of the device.
+Feedback: It was very cool taking a look at the Visual Transister-level Simulator because you get to see a deeper view into the physical construction and operation of computer chips. Reflection: I was able to see how each tiny polygon was contributing to the functionality of the device.
 
 
